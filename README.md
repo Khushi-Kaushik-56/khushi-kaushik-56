@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Khushi-Kaushik-56/khushi-kaushik-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋 I'm Khushi
+🎓 B.TECH CSE (AIML) student
+💻 Currently learning
+- C programming
+- Python
+- Data Structures
+- Git & GitHub
+🤖Interested in
+- Artificial intelligence
+- Machine learning
+🌱 Learning and building step by step  
