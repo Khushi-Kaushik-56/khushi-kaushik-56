@@ -5,7 +5,7 @@
 - Python
 - Data Structures
 - Git & GitHub
-🤖Interested in
+🤖 Interested in
 - Artificial intelligence
 - Machine learning
 🌱 Learning and building step by step  
